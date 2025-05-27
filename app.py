@@ -49,9 +49,3 @@ print("🚀 Public URL:", public_url)
 # Run Flask
 app.run(port=5000)
 
-# Commented out IPython magic to ensure Python compatibility.
-# %%writefile requirements.txt
-# flask
-# numpy
-# joblib
-#
